@@ -1,4 +1,4 @@
-module MyWebApi.Program
+module FsTweetWeb.Main
 
 open Suave
 open Suave.Successful
